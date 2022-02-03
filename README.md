@@ -1,5 +1,5 @@
 # Flutter CRUD Consume ASP.NET CORE WEB API
-This reporitory just example for how flutter consume ASP.NET CORE WEB API in Localhost. Do not forget to change Proxy to Manual proxy configuration Hostname to 10.0.2.2 and Port number [adapted to your PORT API].
+This repository just example for how flutter consume ASP.NET CORE WEB API in Localhost. Do not forget to change Proxy to Manual proxy configuration Hostname to 10.0.2.2 and Port number [adapted to your PORT API].
 
 ![Alt Text](https://github.com/alkaren/FLUTTER-CRUD-WITH-ASP.NET-CORE-WEB-API/blob/main/example.png)
 
